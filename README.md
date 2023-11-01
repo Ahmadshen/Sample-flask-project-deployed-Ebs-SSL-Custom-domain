@@ -10,6 +10,6 @@
 
 ![SSL Certificate](5-SSL%20Certificate.png)
 
-![Domain Live HTTPS](6-Ahmadshen.tk%20domain%20live%20https%20.png)
+![Domain Live HTTPS](6-Ahmadshen.tk%20domain%20live%20https%20%20.png)
 
 
